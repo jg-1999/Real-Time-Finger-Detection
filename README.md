@@ -43,3 +43,10 @@ python main.py --thumb-mode flip
 ## Notas
 
 La deteccion funciona mejor con la palma visible, buena luz y la mano completa dentro del encuadre. El conteo usa una ventana temporal corta para reducir parpadeos entre frames.
+
+## Assets
+
+- Dentro de la carpeta Assets hay un pequeño GIF con el funcionamiento
+- También hay una infografía a modo de explicación visual
+- Un report completo de la app
+
